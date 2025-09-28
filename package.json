@@ -1,0 +1,12 @@
+{
+  "name": "gitbook-project",
+  "version": "1.0.0",
+  "description": "GitBook project with plugins",
+  "dependencies": {
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-code": "^0.1.0",
+    "gitbook-plugin-theme-lou": "^1.0.0",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-back-to-top-button": "^0.1.4"
+  }
+}
